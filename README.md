@@ -1,5 +1,5 @@
-# hello-world
-New Repository
+# hello-world Repository
+First Repository!
 
 HELLO!
 My name is William Kelly
